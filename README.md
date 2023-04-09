@@ -10,18 +10,18 @@ __Note__:
 - [Python Programming Concepts](#python-programming-concepts)
 
 ## General Programming Concepts:
-- What are high level and low level programming languages?
-  - What is machine code?
-  - What is byte code - related to compiler and interpreter?
-- What is a compiler and interpreter?
+- What are **high level** and **low level** programming languages?
+  - What is **machine code**?
+  - What is **byte code** - related to compiler and interpreter?
+- What is a **compiler** and **interpreter**?
   - Difference between the two.
   - Which languages are compiled and which are interpreted or which are both?
-  - What is a linker in cpp (cpp specific)?
-- What is the difference between strongly typed and weakly typed languages
+  - What is a **linker** in cpp (cpp specific)?
+- What is the difference between **strongly typed** and **weakly typed** languages
   - Examples.
-- What is the difference between dynamic typing and static typing (related to data types).
+- What is the difference between **dynamic typing** and **static typing** (related to data types).
   - Examples.
-- What is OOP - Object Oriented Programming
+- What is OOP - **Object Oriented Programming**
   - Features of OOP: Encapsulation, Polymorphism, etc.
   - Implementation of OOPs in C++.
   - Implementation of OOPs in Python.
@@ -34,20 +34,20 @@ __Note__:
 - Concurrency
   - Multithreading
   - Parallelism
-  - What are processes and threads
-  - What is a race condition
-  - What is a deadlock
-  - What is a lock
+  - What are **processes** and **threads**
+  - What is a **race condition**
+  - What is a **deadlock**
+  - What is a **lock**
   - How to avoid race conditions
   - Multithreading in Python (Python is single threaded.. When and Why?)
-  - Global Interpreter Lock (GIL)
+  - Global Interpreter Lock (**GIL**)
 - Memory Management
   - Stack and Heap
   - Garbage Collection (GC)
   - GC in Cpp: We need to explicitly free/deallocate memory
   - GC in Python: happens on its own but how? Just a brief idea.
 - Basic Object Oriented Design (OOD) Patterns:
-  - SOLID Principles
+  - **SOLID** Principles
   - Singleton Design Pattern
   - Factory Design Pattern
   - Strategy Design Pattern
@@ -63,8 +63,8 @@ __Note__:
   - What are references
   - differences between pointers and references,
   - when to use what,
-  - l-value references,
-  - r-value references,
+  - **l-value** references,
+  - **r-value** references,
 - Memory management with pointers and references - stack and heap.
 - call by value and reference - when to use what
 - returning a pointer and/or a reference from a function/method
@@ -75,6 +75,7 @@ __Note__:
 - `virtual` keyword and v-table.
 - Inheritance:
   - Multiple Inheritance -  (advantages/disadvantages) - when would you prefer having multiple inheritance in your design?
+    - Multiple Inheritance in Python and Cpp - Is it allowed?
 - Polymorphism:
   - Overloading:
     - function overloading,

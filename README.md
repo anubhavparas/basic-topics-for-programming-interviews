@@ -1,7 +1,7 @@
 # Basic Topics for Programming Interviews
 
 __Note__: 
-1. This may not be an exhaustive list but might give hints and directions as to what is being expected and required. Please don’t consider this as a complete list.
+1. This may not be an exhaustive list but might give some hints and directions as to what is being expected and required. Please don’t consider this as a complete list.
 2. This is not just for preparing for interviews but could be helpful in terms of learning general Cpp and Python concepts.
 
 ## Contents:

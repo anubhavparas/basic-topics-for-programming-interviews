@@ -59,7 +59,7 @@ __Note__:
   - raw pointers,
   - smart pointers,
   - function pointers,
-  - const with pointers
+  - `const` with pointers.
 - References:
   - What are references
   - differences between pointers and references,
@@ -72,14 +72,14 @@ __Note__:
 - `const` keyword and `const correctness` - basic understanding
 - Size of data types and pointer variable, reference variable,
 - lambda functions,
-- use of `static` method and variable - when to use and when not to,
+- use of `static` method and variable - when to use and when not to.
 - `virtual` keyword and v-table.
 - Inheritance:
   - Multiple Inheritance -  (advantages/disadvantages) - when would you prefer having multiple inheritance in your design?
 - Polymorphism:
   - Overloading:
     - function overloading,
-    - operator overloading
+    - operator overloading.
   - Overriding:
     - v-table, virtual function, pure virtual functions
     - lambda functions - HOW can you achieve a similar behavior using lambda functions? Think…
@@ -87,23 +87,23 @@ __Note__:
   - Destructors,
   - Copy constructors,
   - Copy assignment operator,
-  - Move constructors
-  - Move assignment operator
-  - Which one is going to be called when (if implemented, if not implemented)
-- Templates in Cpp (basic overview)
+  - Move constructors,
+  - Move assignment operator,
+  - Which one is going to be called when (if implemented, if not implemented).
+- Templates in Cpp (basic overview).
 
 
 ## Python Programming Concepts:
 Python is all about working with different libraries. But sometimes it is still important to understand some basic concepts that might be helpful in understanding those libraries or to implement similar stuff.
-- Iterators
-- Generators - yield vs return
-- Decorators
-- Comprehension (list, set, etc)
-- Lambda functions
-- dunder methods (the ones with double underscore__init__(), __new__(), __call__(), __iter__()): what are they, when to use, how to use
+- Iterators.
+- Generators - yield vs return.
+- Decorators.
+- Comprehension (list, set, etc).
+- Lambda functions.
+- dunder methods (the ones with double underscore `__init__()`, `__new__()`, `__call__()`, `__iter__()`, etc.): what are they, when to use, how to use them.
 - Object referencing, memory management - ‘coz everything in Python is an OBJECT!
-- Immutable objects - what are they, examples, why are they made immutable
-- Modules and package structures
+- Immutable objects - what are they, examples, why are they made immutable.
+- Modules and package structures.
 
 
 

@@ -83,7 +83,7 @@ __Note__:
   - Overriding:
     - v-table, virtual function, pure virtual functions
     - lambda functions - HOW can you achieve a similar behavior using lambda functions? Think…
-- Rule 0,3,5
+- **RAII** (Resource Acquisition Is Initialization) and Rule of 0, 3, 5
   - Destructors,
   - Copy constructors,
   - Copy assignment operator,

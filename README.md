@@ -13,7 +13,6 @@ __Note__:
 - What are high level and low level programming languages?
   - What is machine code?
   - What is byte code - related to compiler and interpreter?
-
 - What is a compiler and interpreter?
   - Difference between the two.
   - Which languages are compiled and which are interpreted or which are both?
